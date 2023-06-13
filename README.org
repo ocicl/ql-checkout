@@ -1,0 +1,10 @@
+* ql-checkout
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/roswell/ql-checkout.git   |
+| commit  | c4814f2  |
+| systems | ql-checkout |
+|---------+-------------------------------------------|
+
